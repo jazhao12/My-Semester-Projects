@@ -28,7 +28,3 @@ These are the top 5 python projects that I am most proud of for my first semeste
 - This program records the score each round of rock paper scissors.
 - Users can input "quit" to stop playing.
 
-### Digital Scene
-**Summary**: This program draws Spongebob's, Squidward's, and Patrick's house from Spongebob Squarepants.
-**Key Takeaways**:
-- This program demonstrates my collective skill to create functions with parameters, use hex codes, and pre-programmed turtle functions to draw the desired digital scene.
