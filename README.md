@@ -20,3 +20,10 @@ These are the top 5 python projects that I am most proud of for my first semeste
 - There is an easy, medium, and hard difficulty.
 - Each difficulty rewards a different amount of points.
 - The user can play again.
+
+### Project 4: Rock Paper Scissors
+**Summary**: This program allows users to play rock paper scissors against the computer.
+**Key Features**: 
+- This program accordingly determins if the user has won, tied, or lost a game of rock paper scissors.
+- This program records the score each round of rock paper scissors.
+- Users can input "quit" to stop playing.
