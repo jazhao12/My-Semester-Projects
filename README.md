@@ -1,6 +1,13 @@
 # My-Semester-Projects
 These are the top 5 python projects that I am most proud of for my first semester of AP CSP.
 
+### Project 1: Weather App 
+**Summary**: This program allows users to input a city name and displays the current weather using an API. 
+**Key Features**: 
+- Fetches live weather data.
+- Displays temperature, humidity, and weather conditions. 
+- Handles invalid inputs gracefully.  
+
 ### Pokemon Evolution Game
 **Summary**: This program allows users to roleplay as a pokemon trainer with an Igglybuff.
 **Key Features**: 
@@ -27,4 +34,9 @@ These are the top 5 python projects that I am most proud of for my first semeste
 - This program accordingly determins if the user has won, tied, or lost a game of rock paper scissors.
 - This program records the score each round of rock paper scissors.
 - Users can input "quit" to stop playing.
+
+### Digital Scene
+**Summary**: This program draws Spongebob's, Squidward's, and Patrick's house from Spongebob Squarepants.
+**Key Takeaways**:
+- This program demonstrates my collective skill to create functions with parameters, use hex codes, and pre-programmed turtle functions to draw the desired digital scene.
 
